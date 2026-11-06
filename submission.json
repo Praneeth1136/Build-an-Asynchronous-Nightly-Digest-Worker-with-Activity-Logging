@@ -1,0 +1,7 @@
+{
+  "evaluationConfig": {
+    "apiPort": 3000,
+    "queueImplementation": "redis"
+  }
+}
+
